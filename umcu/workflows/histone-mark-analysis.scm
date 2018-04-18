@@ -1,4 +1,4 @@
-(define-module (Pipeline)
+(define-module (umcu workflows histone-mark-analysis)
   #:use-module (guix processes)
   #:use-module (guix workflows)
   #:use-module (guix gexp)
